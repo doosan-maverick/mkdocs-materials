@@ -28,14 +28,14 @@ theme:
     - scheme: default
       toggle:
         icon: material/toggle-switch-off-outline 
-        name: Switch to Light mode
-      primary: indigo
+        name: Switch to Dark mode
+      primary: black
       accent: indigo 
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
-        name: Switch to Dark mode    
-      primary: black
+        name: Switch to Light mode    
+      primary: indigo
       accent: indigo
 
 plugins:

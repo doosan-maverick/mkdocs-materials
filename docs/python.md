@@ -1,4 +1,4 @@
-# Page 2
+# Python
 
 ## Another heading
 

@@ -25,7 +25,7 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-  # language: en
+  language: en
   # palette:
   #   - scheme: default
   #     toggle:
@@ -39,7 +39,7 @@ theme:
   #       name: Switch to light mode    
   #     primary: teal
   #     accent: lime
-    palette:
+   palette:
     - scheme: default
       primary: indigo
       accent: indigo
@@ -52,12 +52,6 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-  font:
-    text: Roboto
-    code: Roboto Mono
-  favicon: assets/favicon.png
-  icon:
-    logo: logo
 
 plugins:
   - social

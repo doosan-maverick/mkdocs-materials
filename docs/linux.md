@@ -1,0 +1,5 @@
+# Linux
+
+## Another heading
+
+- `HISTCONTROL`

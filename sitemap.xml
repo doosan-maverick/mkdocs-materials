@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://doosan-maverick.github.io/index.html</loc>
+         <lastmod>2024-02-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://doosan-maverick.github.io/Golang.html</loc>
+         <lastmod>2024-02-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://doosan-maverick.github.io/helm.html</loc>
+         <lastmod>2024-02-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://doosan-maverick.github.io/linux.html</loc>
+         <lastmod>2024-02-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://doosan-maverick.github.io/python.html</loc>
+         <lastmod>2024-02-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://doosan-maverick.github.io/terraform.html</loc>
+         <lastmod>2024-02-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
